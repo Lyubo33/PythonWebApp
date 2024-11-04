@@ -1,0 +1,1 @@
+API_KEY = "vw54@F'7#`,,1%-$_Wa~xA,dA%!Kk%" 
